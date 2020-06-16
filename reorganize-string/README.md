@@ -13,7 +13,7 @@ If possible, output any possible result. If not possible, return the empty strin
 ### Example 2: 
 ```shell
 **`Input:`** S = "aaab"
-<b>Output:</b> ""
+<strong>Output:</strong> ""
 ```
 
 ### Note:
