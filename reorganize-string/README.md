@@ -5,15 +5,15 @@ Give a string `S`, check if the letters can be rearranged so that two characters
 If possible, output any possible result. If not possible, return the empty string.
 
 ### Example 1:
-```shell
-**Input:** S = "aab"
-**Output:** "aba"
-```
+<pre>
+<b>Input:</b> S = "aab"
+<b>Output:</b> "aba"
+</pre>
 
 ### Example 2: 
 <pre>
 <b>Input:</b> S = "aaab"
-**Output:** ""
+<b>Output:</b> ""
 </pre>
 
 ### Note:
