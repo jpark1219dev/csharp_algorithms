@@ -12,7 +12,7 @@ If possible, output any possible result. If not possible, return the empty strin
 
 ### Example 2: 
 ```shell
-__Input:__ S = "aaab"
+**`Input:`** S = "aaab"
 **Output:** ""
 ```
 
