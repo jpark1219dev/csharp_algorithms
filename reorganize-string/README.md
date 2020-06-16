@@ -11,10 +11,10 @@ If possible, output any possible result. If not possible, return the empty strin
 ```
 
 ### Example 2: 
-```shell
-**`Input:`** S = "aaab"
-<strong>Output:</strong> ""
-```
+<pre>
+<b>Input:</b> S = "aaab"
+**Output:** ""
+</pre>
 
 ### Note:
 * `S` wil consist of lowercase letters and have length in range `[1, 500]`.
