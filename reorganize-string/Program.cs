@@ -21,7 +21,7 @@ namespace reorganize_string
 	{
 		static internal string ReorganizeString(string S)
 		{
-			var letterCount = S.GroupB(p => p)
+			var letterCount = S.GroupBy(p => p)
 				.Select(p => (val: p.Key, count: p.Count()))
 				.OrderBy(p => p.count)
 				.ToArray();
